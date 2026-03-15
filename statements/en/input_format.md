@@ -1,0 +1,1 @@
+First line N, second line N integers.
